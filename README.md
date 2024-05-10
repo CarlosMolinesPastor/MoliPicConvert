@@ -23,11 +23,6 @@ pyinstaller==6.6.0
 PyQt5==5.15.10
 PyQt5_sip==12.13.0
 ```
-In MacOS, with hombrew:
-
-```bash
-brew install tkinter pillow pyinstaller
-```
 
 To run the application, simply execute the MoliPicConverter.py script:
 ```bash
